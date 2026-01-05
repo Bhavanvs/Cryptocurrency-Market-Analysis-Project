@@ -31,8 +31,3 @@ The dataset is based on UEFA Champions League Finals historical data.
 - Seaborn
 - Scikit-learn
 
-## Folder Structure
-See project directory for notebooks, data, models, and documentation.
-
-## Author
-Bhavan VASU  
